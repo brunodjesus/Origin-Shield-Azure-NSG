@@ -22,7 +22,6 @@ python3 get_azion_ips.py
 
 2 - Parametriz o Script: create_nsg_rules.py
 
-
 subscription_id = 
 resource_group_name = 
 nsg_name = 

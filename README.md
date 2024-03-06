@@ -33,42 +33,4 @@ input_file =
 
 Execute o Script e acompanhe os Logs:
 
- ],
-  "direction": "Inbound",
-  "etag": "W/\"d22ca33f-65f8-4531-9be8-7af480504333\"",
-  "id": "/subscriptions/3dbe78a8-5803-452c-8a7c-7fd410d0e7d9/resourceGroups/LAB/providers/Microsoft.Network/networkSecurityGroups/NSG_AZION_ORIGIN_SHIELD/securityRules/RULE96",
-  "name": "RULE96",
-  "priority": 1096,
-  "protocol": "Tcp",
-  "provisioningState": "Succeeded",
-  "resourceGroup": "LAB",
-  "sourceAddressPrefix": "195.181.174.150",
-  "sourceAddressPrefixes": [],
-  "sourcePortRange": "*",
-  "sourcePortRanges": [],
-  "type": "Microsoft.Network/networkSecurityGroups/securityRules"
-}
-{
-  "access": "Allow",
-  "description": "Allow HTTP and HTTPS traffic from 187.122.251.128",
-  "destinationAddressPrefix": "*",
-  "destinationAddressPrefixes": [],
-  "destinationPortRanges": [
-    "80",
-    "443"
-  ],
-  "direction": "Inbound",
-  "etag": "W/\"963e9aab-0333-4ca6-9b3f-2cc34c4a89d8\"",
-  "id": "/subscriptions/3dbe78a8-5803-452c-8a7c-7fd410d0e7d9/resourceGroups/LAB/providers/Microsoft.Network/networkSecurityGroups/NSG_AZION_ORIGIN_SHIELD/securityRules/RULE97",
-  "name": "RULE97",
-  "priority": 1097,
-  "protocol": "Tcp",
-  "provisioningState": "Succeeded",
-  "resourceGroup": "LAB",
-  "sourceAddressPrefix": "187.122.251.128",
-  "sourceAddressPrefixes": [],
-  "sourcePortRange": "*",
-  "sourcePortRanges": [],
-  "type": "Microsoft.Network/networkSecurityGroups/securityRules"
-
-                            
+  / Running ..

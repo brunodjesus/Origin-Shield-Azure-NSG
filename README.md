@@ -16,7 +16,9 @@ Python Versao 3
 python3 get_azion_ips.py 
 
 :: Por favor, insira o token de autorização: azion8c286fb521a942ee06c780473dd29fc1cf9
+
 :: Os dados foram salvos no arquivo 'azion_shield_data_2024-03-06.txt'
+
 :: Os endereços IPv4 foram salvos no arquivo 'ips-origin-shield.txt'              --> Arquivo Formatado apenas com os IPs - (padrao ipv4) separados por linha.
 
 

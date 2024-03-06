@@ -1,3 +1,10 @@
+# Requer Azure Cli instalado e efetuado processo de Login az login.
+# Requer Parametros do NSG que pode ser consultado no menu Properties na console Azure.
+# Adiciona cada Rede Azion a uma regra Sequencial no NSG Azure.
+# Le um arquivo txt com os Ips Azion obtidos pelo script anterior.
+
+
+
 import os
 import subprocess
 

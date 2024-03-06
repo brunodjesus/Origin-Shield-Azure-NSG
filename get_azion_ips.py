@@ -1,3 +1,7 @@
+#Obtem a lista de IPs na Azion
+#Formata o resultado listando apenas o IP`s.
+
+
 import requests
 import re
 from datetime import datetime

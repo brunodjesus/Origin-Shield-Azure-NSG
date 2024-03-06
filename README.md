@@ -28,8 +28,7 @@ resource_group_name =
 nsg_name = 
 rule_priority_start 
 
-# Arquivo de entrada com IPs
-input_file = 
+input_file = (informe aqui o caminho do arquivo resultado do Script get_azion_ips.py - ips-origin-shield.txt
 
 Execute o Script e acompanhe os Logs:
 

@@ -15,7 +15,7 @@ Python Versao 3
 1 - Executar o Script:
 python3 get_azion_ips.py 
 
-:: Por favor, insira o token de autorização: azion8c286fb521a942ee06c780473dd29fc1cf9
+:: Por favor, insira o token de autorização: xxxxxxxxxxxxxxxxxxxxxxxx
 
 :: Os dados foram salvos no arquivo 'azion_shield_data_2024-03-06.txt'
 
